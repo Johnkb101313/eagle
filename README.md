@@ -2,7 +2,17 @@
 
 ## Discription
 
-A high customizable surround plugin
+A high customizable surround plugin For VIM
+
+## Installation
+
+Vim-Plug:
+
+```vimscript
+Plug 'Johnkb101313/eagle'
+```
+
+or use your favorite plugin-manager to install
 
 ## Usage
 
