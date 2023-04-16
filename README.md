@@ -4,6 +4,15 @@
 
 A high customizable surround plugin For VIM
 
+support:
+- VIM
+- normal mode
+- characterwise
+
+will support:
+- virual line
+- linewise
+
 ## Installation
 
 Vim-Plug:
