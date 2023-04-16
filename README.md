@@ -4,7 +4,7 @@
 
 A high customizable surround plugin For VIM
 
-support:
+supported:
 - VIM
 - normal mode
 - characterwise
@@ -18,7 +18,7 @@ will support:
 Vim-Plug:
 
 ```vimscript
-Plug 'Johnkb101313/eagle'
+Plug 'Johnkb101313/vim-eagle'
 ```
 
 or use your favorite plugin-manager to install
