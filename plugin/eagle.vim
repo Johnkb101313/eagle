@@ -11,5 +11,9 @@ function! s:SurroundOperator(type)
       execute "normal! `]a" . g:surround_charactor[1] . "\<esc>" .
                \':call cursor(".",' . l:first_col . ')' . "\<cr>" .
                \'i' . g:surround_charactor[0] . "\<esc>"
+   elseif a:type ==# "line"
+      echom "linewise: Coming Soon!"
+   elseif a:type ==# "block"
+      echom "blockwise: Coming Soon!"
    endif
 endfunction
